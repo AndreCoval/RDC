@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RDC/static/css/main.b6879e9c.css",
+    "main.js": "/RDC/static/js/main.b9c5d451.js",
+    "static/media/pic1.jpg": "/RDC/static/media/pic1.c41ef2547d998ac27991.jpg",
+    "static/media/pic2.jpg": "/RDC/static/media/pic2.f7ffb341cb3ed64460bd.jpg",
+    "static/media/pic4.jpg": "/RDC/static/media/pic4.baaa5909658fea2c6225.jpg",
+    "index.html": "/RDC/index.html",
+    "main.b6879e9c.css.map": "/RDC/static/css/main.b6879e9c.css.map",
+    "main.b9c5d451.js.map": "/RDC/static/js/main.b9c5d451.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6879e9c.css",
+    "static/js/main.b9c5d451.js"
+  ]
+}
