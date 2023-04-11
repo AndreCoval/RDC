@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/RDC/static/css/main.b6879e9c.css",
-    "main.js": "/RDC/static/js/main.b9c5d451.js",
-    "static/media/pic1.jpg": "/RDC/static/media/pic1.c41ef2547d998ac27991.jpg",
-    "static/media/pic2.jpg": "/RDC/static/media/pic2.f7ffb341cb3ed64460bd.jpg",
-    "static/media/pic4.jpg": "/RDC/static/media/pic4.baaa5909658fea2c6225.jpg",
+    "main.css": "/RDC/static/css/main.64864da4.css",
+    "main.js": "/RDC/static/js/main.12719035.js",
+    "static/media/home-maquinacao.jpeg": "/RDC/static/media/home-maquinacao.72681ff3050430eec03b.jpeg",
+    "static/media/home-serralharia.jpeg": "/RDC/static/media/home-serralharia.190bd336f837ff83c706.jpeg",
+    "static/media/home-manutencao-industrial.jpeg": "/RDC/static/media/home-manutencao-industrial.9f44525f067b96add53a.jpeg",
+    "static/media/home-corte_laser.jpeg": "/RDC/static/media/home-corte_laser.66b81b335863aa2d58f9.jpeg",
+    "static/media/Asset 11-100.jpg": "/RDC/static/media/Asset 11-100.fca1a99d6d6524bd4b1d.jpg",
+    "static/media/hero-banner-home.jpg": "/RDC/static/media/hero-banner-home.912f5d14ea85e08211c4.jpg",
+    "static/media/padrao-geo-hero-banner.png": "/RDC/static/media/padrao-geo-hero-banner.c8262256ceaa47f7e8d3.png",
+    "static/media/padrao-geo-formulario.png": "/RDC/static/media/padrao-geo-formulario.1f56cc910d7ac416f14c.png",
+    "static/media/logo_blue.svg": "/RDC/static/media/logo_blue.2ca7a85b645cf7b93b25ea1a8abd93a5.svg",
+    "static/media/RDClogo.svg": "/RDC/static/media/RDClogo.a05ad6bbdff82b02857ac4c23d9f9138.svg",
     "index.html": "/RDC/index.html",
-    "main.b6879e9c.css.map": "/RDC/static/css/main.b6879e9c.css.map",
-    "main.b9c5d451.js.map": "/RDC/static/js/main.b9c5d451.js.map"
+    "main.64864da4.css.map": "/RDC/static/css/main.64864da4.css.map",
+    "main.12719035.js.map": "/RDC/static/js/main.12719035.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6879e9c.css",
-    "static/js/main.b9c5d451.js"
+    "static/css/main.64864da4.css",
+    "static/js/main.12719035.js"
   ]
 }
