@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RDC/static/css/main.64864da4.css",
-    "main.js": "/RDC/static/js/main.12719035.js",
+    "main.css": "/RDC/static/css/main.05d153dc.css",
+    "main.js": "/RDC/static/js/main.dee2a835.js",
     "static/media/home-maquinacao.jpeg": "/RDC/static/media/home-maquinacao.72681ff3050430eec03b.jpeg",
     "static/media/home-serralharia.jpeg": "/RDC/static/media/home-serralharia.190bd336f837ff83c706.jpeg",
     "static/media/home-manutencao-industrial.jpeg": "/RDC/static/media/home-manutencao-industrial.9f44525f067b96add53a.jpeg",
@@ -13,11 +13,11 @@
     "static/media/logo_blue.svg": "/RDC/static/media/logo_blue.2ca7a85b645cf7b93b25ea1a8abd93a5.svg",
     "static/media/RDClogo.svg": "/RDC/static/media/RDClogo.a05ad6bbdff82b02857ac4c23d9f9138.svg",
     "index.html": "/RDC/index.html",
-    "main.64864da4.css.map": "/RDC/static/css/main.64864da4.css.map",
-    "main.12719035.js.map": "/RDC/static/js/main.12719035.js.map"
+    "main.05d153dc.css.map": "/RDC/static/css/main.05d153dc.css.map",
+    "main.dee2a835.js.map": "/RDC/static/js/main.dee2a835.js.map"
   },
   "entrypoints": [
-    "static/css/main.64864da4.css",
-    "static/js/main.12719035.js"
+    "static/css/main.05d153dc.css",
+    "static/js/main.dee2a835.js"
   ]
 }
