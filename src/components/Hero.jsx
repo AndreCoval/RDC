@@ -11,7 +11,7 @@ const Hero = () => {
       <img className=' z-10 w-full h-[600px] sm:h-[800px] px-5 sm:px-28 object-cover object-center absolute animate-fade animate-once' src={pic4} alt="/" />
         <div className=' z-30 h-[800px] text-center flex flex-col content-center justify-center relative
         animate-fade-down animate-once animate-delay-500'>
-            <p className='md:text-3xl sm:text-lg text-xs font-notoSans font-regular'>Serralharia, Metalomecânica de Precisão</p>
+            <p className='md:text-3xl sm:text-lg text-xs font-notoSans uppercase font-regular'>Serralharia, Metalomecânica de Precisão</p>
             <h1 className=' text-[110px] sm:text-[160px] md:text-[280px] leading-3 mt-10 sm:mt-16 md:mt-28 font-mulish font-extra-black'>RDC</h1>
             {/* <div className='flex justify-center intems-center '>
                 <p className='md:text-5xl sm:text-4xl text-xl font-bold py-4'>Serviço de </p>

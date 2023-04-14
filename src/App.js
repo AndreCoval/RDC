@@ -1,24 +1,27 @@
 import React from "react";
+import { BrowserRouter, Routes, Switch, Route } from "react-router-dom";
+import Home from "./pages/Home";
+import  Projects  from "./pages/Projects";
+import  Nopage  from "./pages/Nopage";
 import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import Company from "./components/Company";
-import Newsletter from "./components/Newsletter";
-import Cards from "./components/Cards";
 import Footer from "./components/Footer";
-import Stats from "./components/Stats";
-import Whoweare from "./components/Whoweare";
-import Contactform from "./components/Contactform";
+import Services from "./pages/Services";
+import Whoweare from "./pages/Whoweare";
 
 function App() {
   return (
-    <div className="App">
-      <Navbar/>
-      <Hero/>
-      <Company/>
-      <Cards/>
-      <Contactform/>
-      <Footer/>
-    </div>
+    <>
+    <Navbar/>
+        <Routes>
+          <Route path="/" element={<Home/>}/>
+          <Route path="/home" element={<Home/>}/>
+          <Route path="/projects" element={<Projects/>}/>
+          <Route path="/services" element={<Services/>}/>
+          <Route path="/whoweare" element={<Whoweare/>}/>
+          <Route path="*" element={<Nopage/>}/>
+        </Routes>
+      <Footer/>  
+    </>
   );
 }
 

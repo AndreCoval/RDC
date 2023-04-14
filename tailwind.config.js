@@ -5,6 +5,7 @@ module.exports = {
   theme: {
     fontWeight: {
       'normal': '400',
+      'medium': '500',
       'bold': '600',
       'extraBold': '800',
       'extra-black': '1000'
