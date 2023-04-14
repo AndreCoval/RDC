@@ -39,9 +39,9 @@ const Footer = () => {
             onde estamos
           </h6>
           <ul>
-            <li className="px-8 font-normal text-xs md:text-sm">Nova morada</li>
+            <li className="px-8 font-normal text-xs md:text-sm">R. de Macau Lote 9,</li>
             <li className="px-8 font-normal text-xs md:text-sm">
-              morada das novas instalações
+            3880-338 Ovar
             </li>
           </ul>
         </div>
