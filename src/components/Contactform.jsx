@@ -3,7 +3,7 @@ import pic1 from "../assets/padrao-geo-formulario.png";
 
 function Contactform() {
 
-    const [formValue, setFormValue] = useState({name:'', email:'', phone:'', message:''});
+    const [formValue, setFormValue] = useState({name:'',company:'', email:'', phone:'', message:''});
 
     const handleInput = (event) => {
         const {name, value}=event.target;
@@ -11,7 +11,7 @@ function Contactform() {
     }
     const handleSubmit = async(e)=>{
         e.preventDefault();
-        const allInputValue= {name: formValue.name, email:formValue.email, phone:formValue.phone, message:formValue.message}
+        const allInputValue= {name: formValue.name, company: formValue.company, email:formValue.email, phone:formValue.phone, message:formValue.message}
         console.log(allInputValue);
 
         /* let res = await fetch("http://endpointApi/FormSubmit", {
