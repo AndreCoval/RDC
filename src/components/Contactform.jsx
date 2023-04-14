@@ -5,15 +5,15 @@ function Contactform() {
 
     return (
         <div className='text-white font-notoSans flex flex-col pt-5 -mb-8 sm:-mb-24 md:pt-16'>
-        <h1 className='absolute w-full text-center pt-20 text-8xl sm:w-[500px] md:ml-[2%] leading-[60px] font-semiBold z-10'>entre em contacto connosco</h1>
+        <h1 className='absolute w-full text-center pt-20 text-6xl sm:text-8xl sm:w-[500px] md:ml-[2%] leading-[48px] sm:leading-[60px] font-semiBold z-10'>entre em contacto connosco</h1>
         <div className="skew-y-[5deg] w-full h-[400px] bg-[#091E38]"></div>
 
-        <div className='w-full bg-[#091E38] -top-8 sm:-top-24 pt-24 text-center content-center justify-center relative'>
+        <div className='w-full bg-[#091E38] -top-8 sm:-top-24 pt-0 sm:pt-24 text-center content-center justify-center relative'>
         
         <img className=' left-0 bottom-0 opacity-5 w-full h-[500px] md:h-[800px] md:w-[80%] absolute z-10' src={pic1} alt="/" />
             
             <form className='w-full xl:w-[65%] md:mr-8 md:ml-auto sm:pl-8 grid md:grid-cols-2 gap-16' action="/" method="post">
-            <h3 class="specialtext" className='font-medium text-5xl md:text-left md:col-span-2 -mt-4'>tem um projeto?</h3>
+            <h3 class="specialtext" className='font-medium text-4xl sm:text-5xl md:text-left md:col-span-2 -mt-4'>tem um projeto?</h3>
             <div className='mx-14 sm:m-0  flex flex-col'>
                 <label className=' text-start text-2xl ty-8 uppercase text-medium' htmlFor="">nome</label>
                 <input className='z-20 text-light text-[#809FC6] mt-4 bg-transparent border-b-2 border-[#809FC6]' type="text" name="name" id="name" placeholder='' />

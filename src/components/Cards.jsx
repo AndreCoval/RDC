@@ -7,7 +7,7 @@ import Serralharia from '../assets/Imagens stock/home-serralharia.jpeg'
 const Cards = () => {
   return (
     <div className='w-full sm:max-w-[1500px] mx-auto my-8 text-white font-notoSans'>
-        <div className='w-full h-auto mx-auto px-16 gap-4 grid md:grid-cols-2'>
+        <div className='w-full mx-auto sm:px-16 px-6 py-8 mb-34 gap-4 grid md:grid-cols-2'>
             <div className='w-full h-full grid gap-4'>
                 <div className='group w-full h-[250px] md:h-[300px] relative'>
                     <a className='absolute w-full h-full bg-black/20'></a>
@@ -40,10 +40,10 @@ const Cards = () => {
                 </div>
             </div>
 
-            <div className='group sm:mt-0 relative grid w-full h-[250px] md:h-full'>
+            <div className='group sm:mt-0 translate-y-18 sm:translate-y-30 relative grid w-full h-[250px] sm:h-full'>
                 <img className='h-full w-full absolute object-cover object-center' src={Cortelaser} alt="/" />
                 <a className='absolute w-full h-full bg-black/40'></a>
-                <div className='absolute bottom-4 sm:group-hover:top-10 left-0 right-0 pl-8 py-2'>
+                <div className='absolute bottom-4 sm:group-hover:top-10 left-0 right-0 sm:pl-8 pl-4 py-2'>
                     <h2 className='text-2xl uppercase font-medium transition animate-fade animate-once'>corte laser e quinagem</h2>
                     <h2 className='text-2xl uppercase font-medium transition animate-fade animate-once'>de alta precisão</h2>
                     <p className='w-[80%] md:w-[60%] my-2 text-xs md:text-sm font-regular sm:hidden group-hover:block animate-fade-up animate-once'>Utilização de vários tipos de materiais, permite a criação de 
