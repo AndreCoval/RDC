@@ -1,12 +1,10 @@
 {
   "files": {
     "main.css": "/RDC/static/css/main.fdbacd49.css",
-    "main.js": "/RDC/static/js/main.959842c6.js",
-    "static/js/642.7d7b59e4.chunk.js": "/RDC/static/js/642.7d7b59e4.chunk.js",
+    "main.js": "/RDC/static/js/main.2011e9a4.js",
     "static/js/479.82e44c62.chunk.js": "/RDC/static/js/479.82e44c62.chunk.js",
     "static/js/113.59c5bdbe.chunk.js": "/RDC/static/js/113.59c5bdbe.chunk.js",
     "static/js/416.3a3726e1.chunk.js": "/RDC/static/js/416.3a3726e1.chunk.js",
-    "static/js/887.f0ad310e.chunk.js": "/RDC/static/js/887.f0ad310e.chunk.js",
     "static/js/578.5eb73aee.chunk.js": "/RDC/static/js/578.5eb73aee.chunk.js",
     "static/media/servicos-manutencao_industrial.jpeg": "/RDC/static/media/servicos-manutencao_industrial.acf12a983ac69ef34a6f.jpeg",
     "static/media/home-maquinacao.jpeg": "/RDC/static/media/home-maquinacao.72681ff3050430eec03b.jpeg",
@@ -52,16 +50,14 @@
     "static/media/RDClogo.svg": "/RDC/static/media/RDClogo.a05ad6bbdff82b02857ac4c23d9f9138.svg",
     "index.html": "/RDC/index.html",
     "main.fdbacd49.css.map": "/RDC/static/css/main.fdbacd49.css.map",
-    "main.959842c6.js.map": "/RDC/static/js/main.959842c6.js.map",
-    "642.7d7b59e4.chunk.js.map": "/RDC/static/js/642.7d7b59e4.chunk.js.map",
+    "main.2011e9a4.js.map": "/RDC/static/js/main.2011e9a4.js.map",
     "479.82e44c62.chunk.js.map": "/RDC/static/js/479.82e44c62.chunk.js.map",
     "113.59c5bdbe.chunk.js.map": "/RDC/static/js/113.59c5bdbe.chunk.js.map",
     "416.3a3726e1.chunk.js.map": "/RDC/static/js/416.3a3726e1.chunk.js.map",
-    "887.f0ad310e.chunk.js.map": "/RDC/static/js/887.f0ad310e.chunk.js.map",
     "578.5eb73aee.chunk.js.map": "/RDC/static/js/578.5eb73aee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fdbacd49.css",
-    "static/js/main.959842c6.js"
+    "static/js/main.2011e9a4.js"
   ]
 }
