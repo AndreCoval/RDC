@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/RDC/static/css/main.cc6ad91b.css",
-    "main.js": "/RDC/static/js/main.602c5836.js",
-    "static/js/479.9d1e01e3.chunk.js": "/RDC/static/js/479.9d1e01e3.chunk.js",
-    "static/js/489.c1256d20.chunk.js": "/RDC/static/js/489.c1256d20.chunk.js",
+    "main.css": "/RDC/static/css/main.d99a4b1e.css",
+    "main.js": "/RDC/static/js/main.c218e12f.js",
+    "static/js/479.81261127.chunk.js": "/RDC/static/js/479.81261127.chunk.js",
+    "static/js/489.28a458b2.chunk.js": "/RDC/static/js/489.28a458b2.chunk.js",
     "static/js/416.35be885c.chunk.js": "/RDC/static/js/416.35be885c.chunk.js",
     "static/js/578.5eb73aee.chunk.js": "/RDC/static/js/578.5eb73aee.chunk.js",
     "static/media/servicos-manutencao_industrial.jpeg": "/RDC/static/media/servicos-manutencao_industrial.acf12a983ac69ef34a6f.jpeg",
@@ -50,15 +50,15 @@
     "static/media/logo_blue.svg": "/RDC/static/media/logo_blue.2ca7a85b645cf7b93b25ea1a8abd93a5.svg",
     "static/media/RDClogo.svg": "/RDC/static/media/RDClogo.a05ad6bbdff82b02857ac4c23d9f9138.svg",
     "index.html": "/RDC/index.html",
-    "main.cc6ad91b.css.map": "/RDC/static/css/main.cc6ad91b.css.map",
-    "main.602c5836.js.map": "/RDC/static/js/main.602c5836.js.map",
-    "479.9d1e01e3.chunk.js.map": "/RDC/static/js/479.9d1e01e3.chunk.js.map",
-    "489.c1256d20.chunk.js.map": "/RDC/static/js/489.c1256d20.chunk.js.map",
+    "main.d99a4b1e.css.map": "/RDC/static/css/main.d99a4b1e.css.map",
+    "main.c218e12f.js.map": "/RDC/static/js/main.c218e12f.js.map",
+    "479.81261127.chunk.js.map": "/RDC/static/js/479.81261127.chunk.js.map",
+    "489.28a458b2.chunk.js.map": "/RDC/static/js/489.28a458b2.chunk.js.map",
     "416.35be885c.chunk.js.map": "/RDC/static/js/416.35be885c.chunk.js.map",
     "578.5eb73aee.chunk.js.map": "/RDC/static/js/578.5eb73aee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc6ad91b.css",
-    "static/js/main.602c5836.js"
+    "static/css/main.d99a4b1e.css",
+    "static/js/main.c218e12f.js"
   ]
 }
