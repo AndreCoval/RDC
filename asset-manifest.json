@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/RDC/static/css/main.308884c4.css",
-    "main.js": "/RDC/static/js/main.65b77600.js",
+    "main.css": "/RDC/static/css/main.cc6ad91b.css",
+    "main.js": "/RDC/static/js/main.602c5836.js",
     "static/js/479.9d1e01e3.chunk.js": "/RDC/static/js/479.9d1e01e3.chunk.js",
-    "static/js/113.41c63065.chunk.js": "/RDC/static/js/113.41c63065.chunk.js",
-    "static/js/416.3a3726e1.chunk.js": "/RDC/static/js/416.3a3726e1.chunk.js",
+    "static/js/489.c1256d20.chunk.js": "/RDC/static/js/489.c1256d20.chunk.js",
+    "static/js/416.35be885c.chunk.js": "/RDC/static/js/416.35be885c.chunk.js",
     "static/js/578.5eb73aee.chunk.js": "/RDC/static/js/578.5eb73aee.chunk.js",
     "static/media/servicos-manutencao_industrial.jpeg": "/RDC/static/media/servicos-manutencao_industrial.acf12a983ac69ef34a6f.jpeg",
     "static/media/home-maquinacao.jpeg": "/RDC/static/media/home-maquinacao.72681ff3050430eec03b.jpeg",
@@ -45,19 +45,20 @@
     "static/media/03.jpg": "/RDC/static/media/03.db7dd067fd0ed00f75e6.jpg",
     "static/media/padrao-geo-hero-banner.png": "/RDC/static/media/padrao-geo-hero-banner.c8262256ceaa47f7e8d3.png",
     "static/media/11.jpg": "/RDC/static/media/11.4d3dd28227b1e7c63326.jpg",
+    "static/media/icon_servicos.jpeg": "/RDC/static/media/icon_servicos.aadadc2af678d86f4d6e.jpeg",
     "static/media/padrao-geo-formulario.png": "/RDC/static/media/padrao-geo-formulario.1f56cc910d7ac416f14c.png",
     "static/media/logo_blue.svg": "/RDC/static/media/logo_blue.2ca7a85b645cf7b93b25ea1a8abd93a5.svg",
     "static/media/RDClogo.svg": "/RDC/static/media/RDClogo.a05ad6bbdff82b02857ac4c23d9f9138.svg",
     "index.html": "/RDC/index.html",
-    "main.308884c4.css.map": "/RDC/static/css/main.308884c4.css.map",
-    "main.65b77600.js.map": "/RDC/static/js/main.65b77600.js.map",
+    "main.cc6ad91b.css.map": "/RDC/static/css/main.cc6ad91b.css.map",
+    "main.602c5836.js.map": "/RDC/static/js/main.602c5836.js.map",
     "479.9d1e01e3.chunk.js.map": "/RDC/static/js/479.9d1e01e3.chunk.js.map",
-    "113.41c63065.chunk.js.map": "/RDC/static/js/113.41c63065.chunk.js.map",
-    "416.3a3726e1.chunk.js.map": "/RDC/static/js/416.3a3726e1.chunk.js.map",
+    "489.c1256d20.chunk.js.map": "/RDC/static/js/489.c1256d20.chunk.js.map",
+    "416.35be885c.chunk.js.map": "/RDC/static/js/416.35be885c.chunk.js.map",
     "578.5eb73aee.chunk.js.map": "/RDC/static/js/578.5eb73aee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.308884c4.css",
-    "static/js/main.65b77600.js"
+    "static/css/main.cc6ad91b.css",
+    "static/js/main.602c5836.js"
   ]
 }
